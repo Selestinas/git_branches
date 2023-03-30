@@ -1,1 +1,1 @@
-## There is some himework about git branches
+## There is some homework about git branches
