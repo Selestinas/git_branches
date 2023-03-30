@@ -1,1 +1,3 @@
-# terminal
+## Homework SQL
+- SQL operations
+- SQL joins
