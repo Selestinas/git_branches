@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder RulesVersion="2" LastSave="2024-01-31T22:31:54.2891843+03:00" FiddlerVersion="5.0.0.0">
+  <State Enabled="true" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Priority="1" MaxMatchCount="1" Comment="Ex_2: Method: POST" Enabled="true" Match="{&quot;matches&quot;:[&quot;%%eyJ0eXBlIjo0LCJrZXkiOm51bGwsImNvbmRpdGlvbiI6ImNvbnRhaW5zIiwidmFsdWUiOiIvdXNlcl9pbmZvXzMiLCJlbmFibGVkIjp0cnVlLCJjYXNlSW5zZW5zaXRpdmVWYWx1ZSI6dHJ1ZSwiY2FzZUluc2Vuc2l0aXZlS2V5Ijp0cnVlLCJpZCI6MH0=&quot;],&quot;matchCondition&quot;:1}" Action="[&quot;%%eyJ0eXBlIjo3LCJjb25kaXRpb24iOiJyZXBsYWNlIiwia2V5IjoiIiwidmFsdWUiOiJJbm5hIiwiY2FzZUluc2Vuc2l0aXZlS2V5Ijp0cnVlLCJjYXNlSW5zZW5zaXRpdmVWYWx1ZSI6dHJ1ZSwiaWQiOiJheWF6NHUzaG9lZiIsImZpbmQiOiJBbm5hIiwiZXh0cmFEYXRhIjp7ImVkaXRvckxhbmd1YWdlIjoianNvbiJ9fQ==&quot;]" />
+  </State>
+</AutoResponder>
